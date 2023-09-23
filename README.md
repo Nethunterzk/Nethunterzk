@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Mr_khan.23 on instagram
+- 📫 How to reach me @zuhair_khan.23 on instagram
 
 <!---
 Nethunterzk/Nethunterzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
